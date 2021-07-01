@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **rexental_. on instagram**
+- 📫 How to reach me **rexental._ on instagram**
 
 
 <h3 align="left">Languages and Tools:</h3>
